@@ -1,4 +1,4 @@
-## login-registration
+## Login and Registration
 
 Special thanks to Codehal for this awesome design and template!
 
